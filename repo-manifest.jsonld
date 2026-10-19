@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/mahmoud/face/commit/f39598c7af40fe347ab6a5bf12cd9c3ee810a246",
       "git:hexsha": "f39598c7af40fe347ab6a5bf12cd9c3ee810a246",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/mahmoud/face/commit/1b7d98217205a0d042e6000587fa5195e6bdc5f9",
